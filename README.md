@@ -1,6 +1,8 @@
 # flutter_diwali_store_ui
 
-A new Flutter project.
+Diwali Store UI | Splash Screen | Home Page | Detail Page
+
+![Alt Text](https://github.com/Dhanraj-FlutterDev/flutter_diwali_store_ui/blob/master/screenshot_one.png)
 
 ## Getting Started
 
